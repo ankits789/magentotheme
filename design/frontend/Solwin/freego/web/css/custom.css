@@ -1,0 +1,10 @@
+.level0.active>.level-top,
+.navigation .level0.has-active>.level-top {
+    background: #e02b27 !important;
+    border-color: #222;
+    border-style: solid;
+    border-width: 0;
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+}
